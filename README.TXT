@@ -20,17 +20,17 @@ appropriate media or boot in, for instance, VMware, QEMU or VirtualBox.
 You can find the source code in the source/ directory, and sample 
 programs (included on the disk images) in the programs/ directory.
 See the doc/ directory for more info, including:
-
- # handbook-user.html -- How to run and use MikeOS
-
- # handbook-appdev-basic.html -- Writing software in BASIC
- # handbook-appdev-asm.html -- Writing software in assembly
- # handbook-sysdev.html -- Building and modifying the OS
-
- # LICENSE.TXT -- The open source, BSD-like license
- # CHANGES.TXT -- Detailed list of changes in previous releases
- # CREDITS.TXT -- People involved in the project
-
+  
+  # handbook-user.html -- How to run and use MikeOS
+  
+  # handbook-appdev-basic.html -- Writing software in BASIC
+  # handbook-appdev-asm.html -- Writing software in assembly
+  # handbook-sysdev.html -- Building and modifying the OS
+  
+  # LICENSE.TXT -- The open source, BSD-like license
+  # CHANGES.TXT -- Detailed list of changes in previous releases
+  # CREDITS.TXT -- People involved in the project
+  
 Have fun, and see the website at http://mikeos.sourceforge.net
 
  -- Mike Saunders (okachi@gmail.com)
